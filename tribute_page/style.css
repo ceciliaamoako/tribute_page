@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(139, 96, 66);
+  font-size: 18px;
+  font-family: monospace;
+  color: rgb(243, 192, 97);
+  overflow: scroll;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+#img-caption {
+  margin: auto;
+  text-align: center;
+}
+
+.title-head {
+  padding: 10px;
+  margin: auto;
+  line-height: 25px;
+}
+
+#title {
+  text-align: center;
+}
+
+#subtitle {
+  color: ;
+  text-align: center;
+}
+
+h2 {
+  color: wheat;
+  text-align: center;
+}
+
+section {
+  text-align: justify;
+  white-space: pre-line;
+  margin-left: 50px;
+}
+
+a {
+  color: bisque;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover {
+  color: coral;
+}
+
+p {
+  padding-bottom: 20px;
+  margin-left: 50px;
+}
